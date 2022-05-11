@@ -1,1 +1,1 @@
-Pequenos projetos para apredizado de novos comandos. Modificação
+Pequenos projetos para apredizado de novos comandos
